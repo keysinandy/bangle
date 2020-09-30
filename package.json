@@ -2,8 +2,8 @@
   "name": "bangle",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "git@github.com:your-username/project-name.git",
-  "author": "your-name <your-email-address@gmail.com>",
+  "repository": "git@github.com:keysinandy/bangle.git",
+  "author": "keysin keysinandy@outlook.com",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --inline  --config webpack.dev.js",
